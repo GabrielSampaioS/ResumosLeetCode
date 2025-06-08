@@ -16,7 +16,7 @@ Cada pasta ou arquivo contém:
 ## 🛠 Tecnologias
 
 - Linguagem principal: `C++`
-- Ferramentas: VSCode, C++, Git
+- Ferramentas: VSCode, G++, Git
 
 ## 🎯 Objetivos
 
