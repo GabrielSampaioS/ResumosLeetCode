@@ -71,14 +71,14 @@ Por exemplo, a palavra `"Alaska"` pode ser digitada apenas com letras da segunda
 
 ### 🌳 Exemplo de árvore **válida**:
 
-📌 *\[<alt-text>](\..\img\RedBlackTreeValida)*
+📌 *\[<alt-text>](..\img\RedBlackTreeValida)*
 Uma árvore com as propriedades de cor e balanceamento corretamente aplicadas.
 
 ---
 
 ### ❌ Exemplo de árvore **inválida**:
 
-📌 *\[<alt-text>](\..\img\RedBlackTree)*
+📌 *\[<alt-text>](..\img\RedBlackTree)*
 Neste exemplo:
 
 * Dois nós vermelhos consecutivos (`60` e `21`) violam a propriedade 3.
@@ -96,5 +96,5 @@ Neste exemplo:
 
 ### 🔗 Fonte de pesquisa e para aprofundar no tema:
 
-[GeeksforGeeks - Red-Black Tree](https://www.geeksforgeeks.org/dsa/introduction-to-red-black-tree/)
-[Red-Black Tres: Intro in 4](https://www.youtube.com/watch?v=qvZGUFHWChY)
+- [GeeksforGeeks - Red-Black Tree](https://www.geeksforgeeks.org/dsa/introduction-to-red-black-tree/)
+- [Red-Black Tres: Intro in 4](https://www.youtube.com/watch?v=qvZGUFHWChY)
